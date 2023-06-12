@@ -85,7 +85,7 @@
 |[Russian Market (Tor v3)](http://flydedxmmddhgt3vfhv6om63ra2u2x4jxginulhxb6nzcnj3wwgavwyd.onion)| ONLINE | |
 |[Russian Market (Tor v3)](http://rumarkstror5mvgzzodqizofkji3fna7lndfylmzeisj5tamqnwnr4ad.onion)| ONLINE | |
 |[SHADOWCARDERS](https://shadowcarders.com)| ONLINE | |
-|[SOLOMON](http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion)| ONLINE | |
+|[SOLOMON](http://si3ttdyjjv63plkkwjlriztnwe5lb4ytke3llowegad4hdqfd5sm32yd.onion)| OFFLINE | |
 |[SOLOMON](http://solozr5dlwosdsfwtem4yfmpfh6orhzee7dbpv4dsjdsthnlur4cguqd.onion)| ONLINE | |
 |[STYX](https://styxmarket.com)| ONLINE | |
 |[SWIPESTORE](https://swipestore.cc)| ONLINE | |
